@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 217cea3425e52a74288bba79242cb7a9, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: Assembly-CSharp::ObjectDBSO
+  objectData:
+  - <Name>k__BackingField: LitDouble
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 3562150090498763231, guid: a2a6ce5762160204babcb6a82fc4fdeb,
+      type: 3}
+  - <Name>k__BackingField: chaise
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: 12d50f50b709aaf4c93fe50945288ce0,
+      type: 3}
+  - <Name>k__BackingField: "Etag\xE8re"
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: cd01a071c3a8f8541a5f7906bd508bac,
+      type: 3}
+  - <Name>k__BackingField: "canap\xE9"
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: 00c9413afe7ba2540a02da879aa50ffc,
+      type: 3}
+  - <Name>k__BackingField: table
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: 6fc5bd417c4eb3e4c97d9a39314c3c4a,
+      type: 3}
+  - <Name>k__BackingField: "lampe carr\xE9"
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: 868ae231a9fffbd47997b3564c6ea8a2,
+      type: 3}
